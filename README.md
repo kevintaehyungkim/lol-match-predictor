@@ -1,5 +1,5 @@
 # lol-match-predictor
-STATS 202 Final Project: LoL Match Prediction
+Stanford STATS 202 Final Project: LoL Match Prediction
 
 League of Legends (LoL) is a team-oriented strategy game developed by Riot Games in 2009 that evolved from a small North American community to an international gaming powerhouse that now boasts over 115 million monthly players worldwide. To put this number into perspective, the next most popular game is Counter Strike: Global Offensive (CS:GO) which has 26 million monthly users, followed by Dota 2 at 11 million and Minecraft at 10 million. 
 
